@@ -2,7 +2,17 @@
     "name": "vue-low-poly",
     "version": "0.1.5",
     "private": false,
+    "author": "lalawow <lalawow@gmail.com>",
     "main": "./dist/VueLowPoly.umd.min.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lalawow/vue-low-poly.git"
+    },
+    "keywords": [
+        "vue",
+        "component",
+        "low-poly"
+    ],
     "scripts": {
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build",
